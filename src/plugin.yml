@@ -1,0 +1,9 @@
+name: IonRanks
+author: IonNetwork
+main: com.ionnet.ionranks.Main
+version: 1.0.0
+description: Ranks plugin for Ion Network
+
+commands:
+  rank:
+    aliases: ["ranks"]

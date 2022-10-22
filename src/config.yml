@@ -1,0 +1,7 @@
+ranks:
+  default:
+    prefix: "&f"
+    suffix: ":"
+    default: false
+players:
+  testPlayer: "default"
